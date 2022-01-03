@@ -1,0 +1,4 @@
+code.cloudfoundry.org/cli v7.1.0+incompatible h1:1Zn3I+epQBaBvnZAaTudCQQ0WdqcWtjtjEV9MBZP08Y=
+code.cloudfoundry.org/cli v7.1.0+incompatible/go.mod h1:e4d+EpbwevNhyTZKybrLlyTvpH+W22vMsmdmcTxs/Fo=
+github.com/cloudfoundry/cli v7.1.0+incompatible h1:3vDAUpmCq1VetrstS743R7/IzgFOFJCB2KKWV91Lnyk=
+github.com/cloudfoundry/cli v7.1.0+incompatible/go.mod h1:uUVSLzSuwWNhis5+tY5XRUp66kLbHhBktg8b3ZfcJHI=
